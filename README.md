@@ -9,13 +9,13 @@ The code starts settings some paths where the data is located.
 
 It works in any location, just is the way you obtain the tree strucutre as you unzip the data zip file.
 
-Then it read all the data, in separate files, with the same names of the original data.
+Then it reads all the data, in separate files, with the same names of the original data.
 
 ----
 
-Then you can see that each section answer each question.
+Then you can see that each section answers each question.
 
-The code is documented where you can find the explanation of each command.
+The code is documented where you can find the explanation for each command.
 
 ```
 #------------------------------------------------------------------------------#
@@ -88,7 +88,7 @@ In this case the following are 3D thats the reason the have an X, Y and Z values
 - BodyAcc
 - BodyGyro
 
-All variables are in two group that starts with *t* or *f*, meaning that comes from time or frequency domain.
+All variables are in two group that starts with **t** or **f**, meaning that comes from time or frequency domain.
 
 The variables with Mag sufix mean that is a 3D magnitud of the variable.
 
